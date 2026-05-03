@@ -2,7 +2,7 @@
 
 Paste any production error log in Slack — Claude reads the relevant code in your repo, finds the bug, and opens a PR with the fix.
 
-📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtube.com/@AyyazTech)
+📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtu.be/_71wMqXeZAA)
 
 ---
 
@@ -43,7 +43,7 @@ Routes to **Code mode** automatically.
 
 ## 📺 Watch the Full Tutorial
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 
 🔔 [Subscribe to AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows.
 

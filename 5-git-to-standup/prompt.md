@@ -42,4 +42,4 @@ Group as: Shipped / In Progress / Blockers. Post directly here.
 
 ---
 
-📺 [Watch the tutorial](https://youtube.com/@AyyazTech) · 🔔 [Subscribe](https://youtube.com/@AyyazTech?sub_confirmation=1) · 🌐 [ayyaztech.com](https://ayyaztech.com)
+📺 [Watch the tutorial](https://youtu.be/_71wMqXeZAA) · 🔔 [Subscribe](https://youtube.com/@AyyazTech?sub_confirmation=1) · 🌐 [ayyaztech.com](https://ayyaztech.com)

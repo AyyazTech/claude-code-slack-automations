@@ -2,7 +2,7 @@
 
 Turn any technical Slack thread (e.g., a debate about how to implement something) into a structured Markdown doc, committed to a branch in your GitHub repo with a PR ready to merge.
 
-📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtube.com/@AyyazTech)
+📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtu.be/_71wMqXeZAA)
 
 ---
 
@@ -41,7 +41,7 @@ Routes to **Code mode** automatically.
 
 ## 📺 Watch the Full Tutorial
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 
 🔔 [Subscribe to AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows.
 

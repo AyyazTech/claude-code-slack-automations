@@ -2,7 +2,7 @@
 
 Reads the last 24 hours of your `#standup` channel and posts a clean 3-bullet summary covering shipped, in-progress, and blocked items.
 
-📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtube.com/@AyyazTech)
+📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtu.be/_71wMqXeZAA)
 
 ---
 
@@ -36,7 +36,7 @@ If your routing mode is set to "Code only", append `Just summarize, no code acti
 
 ## 📺 Watch the Full Tutorial
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 
 🔔 [Subscribe to AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows.
 

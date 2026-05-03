@@ -2,7 +2,7 @@
 
 Never write a standup again. Claude reads your last 24 hours of GitHub commits + PRs, drafts your standup in YOUR voice, and posts it directly to `#standup` as you.
 
-📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtube.com/@AyyazTech)
+📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtu.be/_71wMqXeZAA)
 
 ---
 
@@ -42,7 +42,7 @@ Routes to **Code mode** automatically.
 
 ## 📺 Watch the Full Tutorial
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 
 🔔 [Subscribe to AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows.
 

@@ -38,4 +38,4 @@ Include: timeline, root cause, what went well, what to improve, action items. Wh
 
 ---
 
-📺 [Watch the tutorial](https://youtube.com/@AyyazTech) · 🔔 [Subscribe](https://youtube.com/@AyyazTech?sub_confirmation=1) · 🌐 [ayyaztech.com](https://ayyaztech.com)
+📺 [Watch the tutorial](https://youtu.be/_71wMqXeZAA) · 🔔 [Subscribe](https://youtube.com/@AyyazTech?sub_confirmation=1) · 🌐 [ayyaztech.com](https://ayyaztech.com)

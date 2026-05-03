@@ -2,11 +2,11 @@
 
 > Complete setup + 5 free AI automations using Anthropic's official **Claude in Slack** app. No webhooks. No paid Slack AI tier. No custom code. Just `@Claude` mentions in Slack — running on your existing Claude Pro plan.
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 [![Subscribe](https://img.shields.io/badge/Subscribe-AyyazTech-red?logo=youtube)](https://youtube.com/@AyyazTech?sub_confirmation=1)
 [![Website](https://img.shields.io/badge/Website-ayyaztech.com-06B6D4)](https://ayyaztech.com)
 
-📺 **Watch the full tutorial:** [Claude Code in Slack — Complete Setup + 5 Free AI Automations (2026)](https://youtube.com/@AyyazTech) *(link will be updated after the video is published)*
+📺 **Watch the full tutorial:** [Claude Code in Slack — Complete Setup + 5 Free AI Automations (2026)](https://youtu.be/_71wMqXeZAA)
 🔔 **Subscribe to AyyazTech:** [@AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows
 🌐 **More content:** [ayyaztech.com](https://ayyaztech.com)
 
@@ -105,13 +105,13 @@ Each folder contains:
 | "I can't see your repo" | Install Claude GitHub App at github.com/apps/claude-code-anthropic on the specific repo |
 | Direct push to main | Expected — Claude uses PR flow always (cloud session limitation) |
 
-Full troubleshooting in the [video tutorial](https://youtube.com/@AyyazTech).
+Full troubleshooting in the [video tutorial](https://youtu.be/_71wMqXeZAA).
 
 ---
 
 ## 📺 Watch the Full Tutorial
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 
 🔔 [Subscribe to AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows.
 
@@ -124,7 +124,7 @@ Full troubleshooting in the [video tutorial](https://youtube.com/@AyyazTech).
 - ⭐ **Star this repo** to help others discover it
 - 🔔 [**Subscribe on YouTube**](https://youtube.com/@AyyazTech?sub_confirmation=1)
 - 🌐 **Visit** [ayyaztech.com](https://ayyaztech.com) for more content
-- 🐛 Found a bug or want a new automation? **Open an issue** OR comment on the [YouTube video](https://youtube.com/@AyyazTech)
+- 🐛 Found a bug or want a new automation? **Open an issue** OR comment on the [YouTube video](https://youtu.be/_71wMqXeZAA)
 
 ---
 

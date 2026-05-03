@@ -2,7 +2,7 @@
 
 Paste any GitHub PR link in Slack — Claude clones the repo in a cloud session, reads the diff, and posts a review back in the thread. Optionally also comments on the GitHub PR itself.
 
-📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtube.com/@AyyazTech)
+📺 **See it in action:** [Watch the AyyazTech tutorial](https://youtu.be/_71wMqXeZAA)
 
 ---
 
@@ -41,7 +41,7 @@ Routes to **Code mode** automatically — runs a Claude Code session in the clou
 
 ## 📺 Watch the Full Tutorial
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtube.com/@AyyazTech)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?logo=youtube)](https://youtu.be/_71wMqXeZAA)
 
 🔔 [Subscribe to AyyazTech](https://youtube.com/@AyyazTech?sub_confirmation=1) — best AI coding tools, models, and workflows.
 
